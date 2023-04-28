@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Recommender_systems_project
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jens Villadsen
+    family-names: Fisker
+  - given-names: Bastian Aron
+    family-names: Kramer
+repository-code: >-
+  https://github.com/jenner231/Decision_Support_Systems_Project-Recommender_Systems
